@@ -1,7 +1,7 @@
 import random
 #yutyifgkuhlikj
 
-#ajout Fati
+#ajout 
 def computer_guess(x):
     low = 1
     high = x
